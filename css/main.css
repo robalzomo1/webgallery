@@ -8,7 +8,7 @@ body {
 }
 
 a, a:active, a:visited {
-  color: #0066CC;
+  color: #ffff00;
 }
 
 .content {
@@ -31,9 +31,9 @@ footer p {
 }
 
 header {
-  background: #C8C1B7;
+  background:#3805f5;
   border-bottom: 1px solid #999999;
-  background-image: url("../img/gallerybanner.jpg"); /*change your banner image*/
+  background-image: url("../img/Banner-1.jpg"); /*change your banner image*/
   height: 60px;
   position: relative;
   width: 100%;
